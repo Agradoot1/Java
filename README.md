@@ -1,3 +1,3 @@
 # Java File Explorer
 
-A complex project for Agradoot's portfolio.
+Java project for my portfolio.
